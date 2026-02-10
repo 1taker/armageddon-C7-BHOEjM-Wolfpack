@@ -1120,4 +1120,14 @@ Through these challenges, you will learn how to:
 ## ✍️ Authors & Acknowledgments
 
 * **Author and Group Leaders** T.I.Q.S., John Sweeney
-* **Team Member:** 
+* **Team Member:**
+
+* ## Anthony Core
+
+Completed Labs:
+- Lab 1A
+- Lab 1B
+- Lab 1C
+
+Submission Repo:
+https://github.com/1taker/armageddon-C7-BHOEJM-Wolfpack
